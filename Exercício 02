@@ -29,7 +29,7 @@ int main () {
 		printf("nome: %s\n", nomes[i]);
 		
 		for(j=0;j<3;j++){	
-			printf("nota %iª: %.2f\n", i, notas[i][j]);
+			printf("nota %iÂª: %.2f\n", i, notas[i][j]);
 		}
 	
 		printf("media: %.2f\n", medias[i]);
@@ -37,7 +37,7 @@ int main () {
 		if (medias[i] >=7) {
 			printf("Aprovado! \n");
 		} else if (medias[i] >=5) {
-			printf("recuperação! \n");
+			printf("recuperaÃ§Ã£o! \n");
 		} else {
 			printf ("reprovado! \n");
 		}
