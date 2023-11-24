@@ -19,7 +19,7 @@ int main(){
          gets(nomes[i]);
 
          printf("Digite sua idade: ");
-         scanf("%d", &idade[i]);
+         scanf("%f", &idade[i]);
 
          printf("Digite seu peso: ");
          scanf("%f", &peso[i]);
