@@ -14,7 +14,7 @@ int main() {
     printf("|-----------Fim-------------|\n");
     
 	do{
-		printf("opção: ");
+		printf("opÃ§Ã£o: ");
 		scanf("%i", &opcao);
 		
 		if(opcao == 1){	
